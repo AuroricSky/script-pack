@@ -4,5 +4,5 @@ all the scripts in this pack are made by other people, DM the people in the cred
 if you have any suggestions, questions, issues for/about/with the script pack, dm me on discord.
 suggestion/directions: extract the zip folder and copy the scripts inside then go to the scripts folder of your exploit and paste them there, now you are op script kiddie.
 Enjoy!
-Updated As of July 10th, 2020.
+Updated As of July 21st, 2020.
 
