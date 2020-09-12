@@ -1,16 +1,17 @@
 # script-setup                                                                                                                                        
-hello! welcome to my script setup! a compilation of scripts by me: @ducko#0415.
+hello! welcome to my script pack! a compilation of scripts by me: @duck0#0415.
 --
 most of the scripts in this pack are made by other people, DM the people in the credits above the scripts for bug reports, support, etc. not me please.
 --
-if you have any suggestions, questions, issues with the script setup, dm me on discord.
+if you have any suggestions, questions, issues with the script pack, dm me on discord.
 --
-suggestion/directions to install: extract the zip folder (with WinRAR) and copy the scripts inside then go to the scripts folder of your exploit and paste them there, now you are op script kiddie.
+directions to install: extract the zip folder (with WinRAR) and copy the scripts inside then go to the scripts folder of your exploit and paste them there.
 --
-autoexec setup: https://i.imgur.com/1NnWfZG.png
+autoexec pack:
 --
 Enjoy!
 --
-NOTE: i update this script setup over time not like right away so remember that.
+i update this script pack over time not like right away so remember that. no estimates on when updates will come out but i can guarantee every month.
 --
 Updated as of September 12th, 2020.
+--
