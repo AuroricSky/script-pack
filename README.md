@@ -6,4 +6,4 @@ suggestion/directions to install: extract the zip folder (with WinRAR) and copy 
 autoexec setup: https://i.imgur.com/1NnWfZG.png
 Enjoy!
 NOTE: i update this script setup over time not like right away so remember that.
-Updated as of August 21st, 2020. update coming september 7th.
+Updated as of September 12th, 2020.
