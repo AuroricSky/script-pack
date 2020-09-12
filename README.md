@@ -1,4 +1,4 @@
-# script-setup                                                                                                                                        
+# script-pack                                                                                                                                        
 hello! welcome to my script pack! a compilation of scripts by me: @duck0#0415.
 --
 most of the scripts in this pack are made by other people, DM the people in the credits above the scripts for bug reports, support, etc. not me please.
