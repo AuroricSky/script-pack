@@ -13,5 +13,5 @@ Enjoy!
 --
 i update this script pack over time not like right away so remember that. no estimates on when updates will come out but i can guarantee every month.
 --
-Updated as of September 12th, 2020.
+Updated as of September 13th, 2020.
 --
