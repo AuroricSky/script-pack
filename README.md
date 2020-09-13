@@ -7,7 +7,7 @@ if you have any suggestions, questions, issues with the script pack, dm me on di
 --
 directions to install: extract the zip folder (with WinRAR) and copy the scripts inside then go to the scripts folder of your exploit and paste them there.
 --
-autoexec pack:
+autoexec pack: https://cdn.discordapp.com/attachments/751999438469333052/754599632138665994/Autoexec_Pack.zip
 --
 Enjoy!
 --
