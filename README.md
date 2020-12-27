@@ -1,17 +1,5 @@
 # script-pack                                                                                                                                        
 hello! welcome to my script pack! a compilation of scripts by me: @duck0#0415.
 --
-most of the scripts in this pack are made by other people, DM the people in the credits above the scripts for bug reports, support, etc. not me please.
---
-if you have any suggestions, questions, issues with the script pack, dm me on discord.
---
-directions to install: extract the zip folder (with WinRAR) and copy the scripts inside then go to the scripts folder of your exploit and paste them there.
---
-autoexec setup: https://cdn.discordapp.com/attachments/752015793910317077/762133745356374026/Autoexec_Scripts.zip
---
-Enjoy!
---
-i update this script pack over time not like right away so remember that. no estimates on when updates will come out but i can guarantee every month.
---
 Updated as of October 3rd, 2020.
 --
